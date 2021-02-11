@@ -1,14 +1,14 @@
-**Needs revision**
+**Full credit**
 
 # quiz1 
 
 Part 1: recognizing nouns
 1. filiam f. acc. sg. 
-2. in coniugium n. acc. sg. ; into ❌
+2. in coniugium n. acc. sg. ; into marriage
 3. animo m. dat./abl. sg.
 4. uirgine f. abl. sg.
 5. parentes m./f. nom./acc./voc. pl.
-6. ad uxorem f. acc. sg. ; towards ❌
+6. ad uxorem f. acc. sg. ; towards his wife
 
 Part 2: recognizing verbs
 1. petivisset 3rd sg. pluperfect subjunctive active; petivissent
@@ -24,7 +24,7 @@ Part 3: Latin composition
 1. are being killed (present) interficiuntur
 2. were being killed (imperfect) interficiebantur
 3. were killed (perfect) interfecti sunt
-4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) interfecerit ❌
-5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her. videret ❌
-6. Hercules *led* Deianira in marriage (i.e., he married her). duxerit ❌
-7. Hercules repeatedly *asked* Eurytus for permission to marry Iole. peteret ❌
+4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) interfecisset
+5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her. vidit
+6. Hercules *led* Deianira in marriage (i.e., he married her). duxit
+7. Hercules repeatedly *asked* Eurytus for permission to marry Iole. rogabat
