@@ -26,7 +26,9 @@ centaurus Eurytion **petit** Deianiram uxorem.
 Tempore certo, **venit** centaurus cum fratribus ad nuptias. 
 
 
-Hercules **interuenit** et centaurum **interfecit**, 
+Hercules **interuenit** 
+
+et centaurum **interfecit**, 
 
 Deianiram **abduxit**.
 
@@ -34,8 +36,8 @@ Deianiram **abduxit**.
 
 When Hercules came in hospitality at king Dexamenus and deflowered his daughter Deianira, he wanted to marry her. 
 When Hercules was away, centaur Eurytion attacked his wife Deianira. 
-Because his father was afraid of the centaur, he promised himself to give up. 
-At certain time, the centaur came when his brother got married.❌ 
+Because Deianira's father was afraid of the centaur, he promised her to give up. 
+At certain time, the centaur came with his brother to the wedding. 
 Hercules intervened and killed the centaur, carried off Deianira.
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
@@ -47,7 +49,6 @@ Deianira, Deianirae, f.; acc. sg.
 4. Identify the form uenisset, and explain why it is this tense and mood.
 3rd sg. pluperfect subjunctive active; emphasize circumstance, secondary sequence, the verb of the dependent clause is pluperfect subjunctive if it expresses an action happened prior to the action of the independent clause 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-3rd sg. perfect active indicative; 👍
-third principal part❌ *What word would you look for in the dictionary?*
+3rd sg. perfect active indicative; polliceor
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 abl. sg. n.; ablative of time
