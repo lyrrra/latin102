@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 # translation1 
 
@@ -37,7 +37,7 @@ Deianiram **abduxit**.
 When Hercules came in hospitality at king Dexamenus and deflowered his daughter Deianira, he wanted to marry her. 
 When Hercules was away, centaur Eurytion attacked his wife Deianira. 
 Because Deianira's father was afraid of the centaur, he promised her to give up. 
-At certain time, the centaur came with his brother to the wedding. 
+At certain time, the centaur came with his brothers to the wedding. 
 Hercules intervened and killed the centaur, carried off Deianira.
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
