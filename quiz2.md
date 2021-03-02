@@ -1,7 +1,9 @@
 # quiz2 
 
 Verb synopses
+
 Check one verb of the first or second conjugation *other than* amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
+
 third plural present indicative active
 third plural present subjunctive active
 third plural imperfect indicative active
@@ -34,6 +36,7 @@ pollicentur, polliceantur, pollicebantur, polliceri, pollicerentur, polliciti su
 
 
 English relative clauses
+
 You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
@@ -66,11 +69,14 @@ Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temp
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 Hercules, who was driven into a fit of madness by Juno, killed his own wife Megara.
 
+
+
 Latin relative clauses
+
 For each sentence in the previous section:
-1. translate the relative pronoun into Latin
-2. identify the antecedent of the pronoun, and its gender and number
-3. identify the case of the Latin pronoun, and explain why it is in that case
+translate the relative pronoun into Latin
+identify the antecedent of the pronoun, and its gender and number
+identify the case of the Latin pronoun, and explain why it is in that case
 
 1. quibus; the brothers m.pl.; abl. cum+abl.
 2. quae; Dexamenus f.sg.; nom. subject
