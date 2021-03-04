@@ -4,12 +4,22 @@
 
 # composition1
 
-cum Hercules veniret ad Oechaliam, quaereret❌ ducere Iolen.
+cum Hercules veniret ad Oechaliam, quaereret❌ ducere Iolen. 
 
-cum eius pater nollet, Hercules caperet❌ Oechaliam.
+quaerebat
 
-Hercules dicebat interficere❌ eius parentes.
+cum eius pater nollet, Hercules caperet❌ Oechaliam. 
+
+capiebat
+
+Hercules dicebat interficere❌ eius parentes. 
+
+interfecturus esse
 
 Iole patiebatur eius parentes interficiebantur.❌
 
+interfectus esse
+
 cum Hercules interficeret omnes, mitteret❌ Iolen ad Deianiram. 
+
+mittebat
