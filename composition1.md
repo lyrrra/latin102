@@ -10,6 +10,6 @@ cum eius pater nollet, Hercules cepit Oechaliam.
 
 Hercules dicebat se interfecturum esse eius parentes. 
 
-Iole patiebatur suae parentes interfectos esse
+Iole patiebatur suos parentes interfectos esse
 
 cum Hercules interficeret omnes, misit Iolen ad Deianiram. 
