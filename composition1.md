@@ -1,5 +1,5 @@
-**Needs revisions**
-**Remember that your independent clause normally states a fact in the *indicative* mood.**
+**Full credit**
+
 
 
 # composition1
