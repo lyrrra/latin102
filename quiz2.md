@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 # quiz2 
 
@@ -12,15 +12,15 @@ third plural imperfect indicative active
 present infinitive active
 third plural imperfect subjunctive active
 third plural perfect indicative active
-perfect infinitive passive
+perfect infinitive active
 third plural pluperfect subjunctive active
 
 servo, servare, servavi, servatus: to save, preserve
-servant, servent, servabant, servare, servarent, sevaverunt❌, servatus esse❌, sevavissent❌
+servant, servent, servabant, servare, servarent, servaverunt, servavisse, servavissent
 They are saving. They were saving. They saved.
 
 dico, dicĕre, dixi, dictus: to say
-dicunt, dicant, dicebant, dicere, dicerent, dixerunt, dictus esse❌, dixissent
+dicunt, dicant, dicebant, dicere, dicerent, dixerunt, dixisse, dixissent
 They are saying. They were saying. They said.
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
@@ -45,13 +45,13 @@ You are given a pair of simple English sentences (that is, a single independent 
 The brothers, whom Eurytion came to the wedding with, were violent Centaurs.
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-Dexamenus, who was promised in marriage to Eurytion, was afraid of Eurytion.❌
+Dexamenus was afraid of Eurytion, to whom Deinira was promised in marriage.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 Eurytion, whose brothers were centaurs, expected to marry Deianira.
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
-Nessus, whom killed by Hercules❌, tried to rape Deianira.
+Nessus, whom Hercules killed, tried to rape Deianira.
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
@@ -68,8 +68,8 @@ Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 
-10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-Hercules, who was driven into a fit of madness by Juno❌, killed his own wife Megara.
+10. Hercules killed his own wife Megara. Juno drove Hercules into a fit of madness.
+Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
 
 
 
@@ -81,7 +81,7 @@ identify the antecedent of the pronoun, and its gender and number
 identify the case of the Latin pronoun, and explain why it is in that case
 
 1. quibus; the brothers m.pl.; abl. cum+abl.
-2. quae; Dexamenus f.sg.; nom. subject❌
+2. cui; Eurytion m.sg.; dat.masc.s.
 3. cuius; Eurytion m.sg.; gen. posession
 4. qui; Nessus m.sg.; nom. subject
 5. quo; blood m. sg.; abl. ablative of agent
@@ -89,4 +89,4 @@ identify the case of the Latin pronoun, and explain why it is in that case
 7. qui; eagle m.sg.; nom. subject
 8. qui; Lycus m.sg.; nom. subject
 9. cui; Hercules m.sg.; dat. indirect object
-10. qui; Hercules m.sg.; nom. subject❌
+10. quem; Hercules m.sg.; accc. subject
