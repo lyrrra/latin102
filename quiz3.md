@@ -1,3 +1,5 @@
+**Full credit**
+
 # quiz3
 
 **Dictionary skills, 1: noun-adjective pairs**
@@ -38,7 +40,7 @@ suus, sua, suum
 
 6 cornibus aureis
 
-cornus, cornus f.
+cornus, cornus f.  👌 **OK!  Also could be the neuter noun *cornu, cornus* : notice they have identical genitive forms!**
 
 aureus, aurea, aureum
 
@@ -46,7 +48,7 @@ aureus, aurea, aureum
 
 carnis, carnis f.
 
-humanus, humana
+humanus, humana, humanum
 
 8 draconem immanem
 
@@ -74,7 +76,7 @@ afflo, afflare, afflavi, afflatus
 
 3 moriebatur
 
-morior, moriri, moritus sum
+morior, moriri, -, moritus sum
 
 4 exinteravit
 
@@ -156,7 +158,7 @@ Erymanthius, Erymanthia, Erymanthium
 
 4 aves Stymphalides
 
-Stymphalied, Stymphalidis, Stymphalide
+Stymphalied, Stymphalidis, Stymphalide. 👌 **Good guess!  It's actually *Stymphalis, Stymphalidis* (a one-ending adjective).**
 
 5 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
@@ -188,7 +190,7 @@ in maiore cruciatu
 
 in maximo cruciatu
 
-7 a great part
+7 a great part **Why did you choose genitive?**
 
 magnae partis
 
