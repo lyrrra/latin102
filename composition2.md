@@ -3,24 +3,12 @@
 
 # composition2
 
-cum Deianira, uxor Herculis, videat
+cum Deianira, uxor Herculis, videat Iolen adductam esse ad eius domum, ea coepit machinare ne amitteret suam maritum. 
 
- Iolen procreavit ad eius domum,  ❌ **Express this idea with indirect statement.**
+ea misit eius famulum ut afferret Herculi vestem tinctum Nessi sanguine quem ea duxit esse philtrum.
 
-ea coepit machinare ❌ ad non amittendum eius maritum. **Use a negative purpose clause here.**
+Hercules induit vestem et ea flammavit statim.
 
-ea misit eius 
-❌ **Purpose clause? Not infinitive** famulum procreare Herculi vestem 
+Hercules objecit servum, quem Deianira misit ad vestem revocandum, in mare.
 
-tincta Nessi sanguinem❌ **What does *tincta* agree with?**, 
-
-quem ea duxit esse philtrum.
-
-Hercules induit vestem et ea flammavit statim.✔️
-
-
-Hercules objecit servum, quem Deianira misit ❌ **Need a purpose expression: gerundive with *ad*?**procreare vestem, in mare.
-
-id est Herculem ortus deum, **How would we express "it is said"?**
-
-sed Deianiram interfecta se ob id.
+dictus est Herculem ortus deum, sed Deianiram interfecta se ob id.
