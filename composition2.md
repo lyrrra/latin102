@@ -3,12 +3,12 @@
 
 # composition2
 
-cum Deianira, uxor Herculis, videat Iolen adductam esse ad eius domum, ea coepit machinare ne amitteret suam maritum. 
+cum Deianira, uxor Herculis, videret Iolen adductam esse ad suam domum, ea coepit machinare ne amitteret suum maritum. 
 
-ea misit eius famulum ut afferret Herculi vestem tinctum Nessi sanguine quem ea duxit esse philtrum.
+ea misit suam famulum ut afferret Herculi vestem tinctam Nessi sanguine quem ea duxit esse philtrum.
 
 Hercules induit vestem et ea flammavit statim.
 
-Hercules objecit servum, quem Deianira misit ad vestem revocandum, in mare.
+Hercules objecit servum, quem Deianira misit ad vestem revocandam, in mare.
 
-dictus est Herculem ortus deum, sed Deianiram interfecta se ob id.
+dictur Herculem ortum esse deum, sed Deianiram interfecisse se ob id.
