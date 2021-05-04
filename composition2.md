@@ -1,5 +1,4 @@
-**Needs revisions**
-**Review purpose constructions: unlike English, Latin does not use the infinitive to express purpose.**
+**Full credit.**
 
 # composition2
 
