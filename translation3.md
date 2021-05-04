@@ -21,9 +21,9 @@ totum stercus abluit.
 
 taurum 
 
-> cum quo Pasiphae concubuit ex Creta insula Mycenis 
+> cum quo Pasiphae concubuit 
 
-vivum adduxit.
+ex Creta insula Mycenis vivum adduxit.
 
 Diomedem Thraciae regem et equos quattuor eius, 
 
@@ -35,29 +35,29 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase? 
-dat.; ablative of means
+abl.; ablative absolute (verb sum omitted)
 2. What case is stercus, and why is it in that case? 
 acc.; direct object
 3. Identify the form of the adjective maiorem (gender, case, number, degree). 
-acc.sg.m.comparative
+acc.sg.f.comparative
 4. Explain the construction of the verbal unit flumine admisso. 
-abl.sg.n. + abl.sg.n. passive perfect participle
+abl.sg.n. + abl.sg.n. passive perfect participle, ablative absolute
 5. What are the gender, number, case, and antecedent of qui? 
-nom.pl.m. Diomedem et equos quattuor eius
+nom.pl.m. equos quattuor eius
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus? 
 sum / to be
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
 
-*cum Abdero famulo interfecit* means Hercules killed Diomenes and his four horses with Abderos, but not Abderos ate human flesh with Diomenes and the horses. *Abdero famulo* is in the dative case.
+*cum Abdero famulo interfecit* means Hercules killed Diomenes and his four horses with Abderos, but not Abderos ate human flesh with the horses. *Abdero famulo* is in the ablative case.
 
 Hyginus put the object first, eliminated the subject Hercules, and added the person who helped Hercules near the verb, like *maiorem partem Iove adiutore*.
 
 Translation:
 
-He cleaned the manure of stall of King Augeas one day, with greater part of help from Jupiter. He washed all the manure away, letting go a river.
+He cleaned the manure of stall of King Augeas on one day, with greater part of help from Jupiter. He washed all the manure away by letting the river in.
 
-He led up the bull, with whom Pasiphae had sex with from island Crete to Mycenes, alive.
+He brought the bull, with whom Pasiphae had sex, from island Crete to Mycenae alive.
 
-With salve Abderos he killed Diomenes, king of Thrace, and his four hourses, who ate human flesh. Moreover, the horses' names were Podargus, Lampon, Xanthus, and Dinus.
+With his slave Abderos he killed Diomenes, king of Thrace, and his four hourses, who ate human flesh. Moreover, the horses' names were Podargus, Lampon, Xanthus, and Dinus.
