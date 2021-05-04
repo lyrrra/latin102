@@ -1,3 +1,5 @@
+**Full credit**
+
 # translation3
 
 Passage to analyze
